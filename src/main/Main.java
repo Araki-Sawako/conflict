@@ -13,6 +13,7 @@ public class Main {
 		 * より複雑な式を作ってみてください笑
 		 */
 		System.out.println(a*a);
+
 	}
 
 }
