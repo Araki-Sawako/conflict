@@ -12,7 +12,7 @@ public class Main {
 		 * 「＋」「－」「×」「÷」の四則演算を使って
 		 * より複雑な式を作ってみてください笑
 		 */
-		System.out.println();
+		System.out.println(a+b+0);
 	}
 
 }
